@@ -1,2 +1,2 @@
-# Rock-vs-Mine-Prediction
+# Submarine-Rock-vs-Mine-Prediction
 Sonar Data
